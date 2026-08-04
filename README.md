@@ -44,6 +44,5 @@ This project analyzes a synthetic e-commerce dataset containing **3,000 orders**
 - `ecommerce_sales_analysis.ipynb` — Python analysis
 - `analysis_queries.sql` — SQL queries
 - `charts/` — exported visualizations
-- `linkedin_post.txt` — ready-to-use LinkedIn post
 
 > Note: The dataset is synthetic and was created for portfolio and educational purposes.
